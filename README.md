@@ -1,4 +1,4 @@
-before start us command:
+before start use command:
 
   parcel index.html 
 
